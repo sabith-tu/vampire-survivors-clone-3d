@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27ddc5d24e8fdd944bd44115b0cc68fd, type: 3}
+  m_Name: Player Leveling Data SO
+  m_EditorClassIdentifier: 
+  CurrentPlayerLevel: 1
+  Xp: 18
+  LevelingDatas:
+  - Level: 0
+    XpNeededToComplet: 1
+    MaxBaseEnemys: 1
+  - Level: 1
+    XpNeededToComplet: 10
+    MaxBaseEnemys: 10
+  - Level: 2
+    XpNeededToComplet: 22
+    MaxBaseEnemys: 20
+  - Level: 3
+    XpNeededToComplet: 33
+    MaxBaseEnemys: 30
+  - Level: 4
+    XpNeededToComplet: 44
+    MaxBaseEnemys: 40
+  - Level: 5
+    XpNeededToComplet: 55
+    MaxBaseEnemys: 50
+  - Level: 6
+    XpNeededToComplet: 66
+    MaxBaseEnemys: 60
+  - Level: 7
+    XpNeededToComplet: 77
+    MaxBaseEnemys: 70
+  - Level: 8
+    XpNeededToComplet: 88
+    MaxBaseEnemys: 80
+  - Level: 9
+    XpNeededToComplet: 99
+    MaxBaseEnemys: 90
+  - Level: 10
+    XpNeededToComplet: 125
+    MaxBaseEnemys: 100
